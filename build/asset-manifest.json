@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AnnaIerchenko.github.io/react-meal-app/static/css/main.53875589.chunk.css",
+    "main.js": "/AnnaIerchenko.github.io/react-meal-app/static/js/main.adb561ef.chunk.js",
+    "main.js.map": "/AnnaIerchenko.github.io/react-meal-app/static/js/main.adb561ef.chunk.js.map",
+    "runtime-main.js": "/AnnaIerchenko.github.io/react-meal-app/static/js/runtime-main.0f0cd81d.js",
+    "runtime-main.js.map": "/AnnaIerchenko.github.io/react-meal-app/static/js/runtime-main.0f0cd81d.js.map",
+    "static/js/2.5c3adfa1.chunk.js": "/AnnaIerchenko.github.io/react-meal-app/static/js/2.5c3adfa1.chunk.js",
+    "static/js/2.5c3adfa1.chunk.js.map": "/AnnaIerchenko.github.io/react-meal-app/static/js/2.5c3adfa1.chunk.js.map",
+    "index.html": "/AnnaIerchenko.github.io/react-meal-app/index.html",
+    "static/css/main.53875589.chunk.css.map": "/AnnaIerchenko.github.io/react-meal-app/static/css/main.53875589.chunk.css.map",
+    "static/js/2.5c3adfa1.chunk.js.LICENSE.txt": "/AnnaIerchenko.github.io/react-meal-app/static/js/2.5c3adfa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f0cd81d.js",
+    "static/js/2.5c3adfa1.chunk.js",
+    "static/css/main.53875589.chunk.css",
+    "static/js/main.adb561ef.chunk.js"
+  ]
+}
